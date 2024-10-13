@@ -29,7 +29,7 @@ I'm always open to collaborations, whether it's through open-source contribution
 ---
 
 ## 🌐 How to Reach Me:
-- [LinkedIn](#https://www.linkedin.com/in/radhik-ampani-3a06b4315/) 
+- [LinkedIn](#linkedin.com/in/radhik-ampani-3a06b4315/) 
 - [Portfolio Website](#) 
 - 📧 [Email Me](mailto:radhik.ampani@gmail.com)
 
