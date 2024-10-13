@@ -29,14 +29,14 @@ I'm always open to collaborations, whether it's through open-source contribution
 ---
 
 ## 🌐 How to Reach Me:
-- [LinkedIn](#) 
+- [LinkedIn](#https://www.linkedin.com/in/radhik-ampani-3a06b4315/) 
 - [Portfolio Website](#) 
-- 📧 [Email Me](mailto:#)
+- 📧 [Email Me](mailto:radhik.ampani@gmail.com)
 
 ---
 
 ## 🎬 Fun Facts:
-When I'm not working on AI, you can find me:
+When I'm not working, you can find me:
 - 🎥 Filmmaking and video editing
 - 🏓 Playing pickleball or lacrosse
 - 🎮 Enjoying video games
