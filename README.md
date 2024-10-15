@@ -14,7 +14,6 @@ I'm Radhik, a passionate student with a strong focus on Data Science and AI. My 
 - **Programming**: Python, Java
 - **Data Science**: Matplotlib, NumPy, pandas, TensorFlow, PyTorch, scikit-learn, Seaborn
 - **Design & Engineering**: Adobe After Effects, Premiere Pro, NI Multisim, Onshape, Fusion 360
-- **Machine Learning & AI**: Cognitive models, deep learning, and AI ethics
 
 ---
 
