@@ -1,6 +1,6 @@
 # Hi there, I'm Radhik Ampani! 👋
 
-### 🧑‍🎓 Student | 🧠 AI Ethics Enthusiast | 💻 Data Science Specialist
+### 🧑‍🎓 Student | 🧠 Aspiring Data Scientist
 
 ---
 
@@ -19,7 +19,7 @@ I'm Radhik, a passionate student with a strong focus on Data Science and AI. My 
 ---
 
 ## 🔧 Currently Learning:
-I'm diving deeper into machine learning and deep learning with a specific emphasis on cognitive thinking and models that can help us better understand human intelligence and its interaction with machines.
+I'm currently taking Andrew Ngo's Course on Machine Learning Specialization, hoping to advanced my knowledge on advanced topics. 
 
 ---
 
